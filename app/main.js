@@ -52,7 +52,7 @@ app.on('ready', () => {
   updateUiMode();
 
   if (DEV_MODE) {
-    mainWindow.webContents.openDevTools({ detach: true });
+    //mainWindow.webContents.openDevTools({ detach: true });
   }
 
   mainWindow.on('show', () => updateUiMode());
