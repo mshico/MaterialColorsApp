@@ -15,7 +15,7 @@ If you want to customize the app for your own needs, you can do a custom build.
 
   3. To run the app
         
-        $ npm install  
+        $ npm start
 
   4. To run the app using gulp (you can install gulp using `npm install --global gulp-cli`):
 
